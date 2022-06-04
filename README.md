@@ -1,7 +1,7 @@
 # Clone of Netmeds.com
 
 This was our project for Unit-4 Construct week at Masai Shcool.
-Our mian objective was to complete all main functionality of this e-commerce website , such as sing up to till to the byuing of a product.
+Our mian objective was to complete all main functionality of this e-commerce website by using such as sing up to till to the buying of a product React,JavaScript, HTML and CSS.
 We have completed this project in 5 days.
 
 - [Click here](https://unrivaled-sprite-2be9c1.netlify.app/) to see preview of our project.
